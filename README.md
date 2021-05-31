@@ -1,5 +1,5 @@
 # Attendance-System-Face-Recognition
-# Attendance-System-Face-Recognition  This project is a web application demonstrating the use of facial recognition for marking attendance built as a part of my PS -1. It is a web application that can be used by the company to manage attendance of its employees. 
+This project is a web application demonstrating the use of facial recognition for marking attendance built as a part of my PS -1. It is a web application that can be used by the company to manage attendance of its employees. 
 
 ## Functionality Supported 
 - Admin and Employee Login 
